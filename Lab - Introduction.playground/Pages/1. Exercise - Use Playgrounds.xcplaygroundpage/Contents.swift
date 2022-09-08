@@ -10,13 +10,13 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("One Dance- Drake (ft.  Kyla Reid, Wizkid)")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
+print(" Baby, I like your style")
+print("Grips on your waist")
 
 /*:
 
